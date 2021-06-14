@@ -1,5 +1,8 @@
 package plane;
 
+import plane.crew.CabinCrewMember;
+import plane.crew.Pilot;
+
 import java.util.ArrayList;
 
 public class Flight {

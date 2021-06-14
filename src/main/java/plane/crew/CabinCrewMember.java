@@ -1,4 +1,6 @@
-package plane;
+package plane.crew;
+
+import plane.Rank;
 
 public class CabinCrewMember {
 

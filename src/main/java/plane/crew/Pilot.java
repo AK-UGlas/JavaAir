@@ -1,4 +1,7 @@
-package plane;
+package plane.crew;
+
+import plane.Rank;
+import plane.crew.CabinCrewMember;
 
 public class Pilot extends CabinCrewMember {
 
